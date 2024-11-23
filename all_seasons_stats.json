@@ -1,0 +1,6492 @@
+{
+  "SEASON 2024 ": [
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "Virat Kohli",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "1"
+        },
+        {
+          "key": "mat",
+          "value": "Virat Kohli\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "741"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "113*"
+        },
+        {
+          "key": "sr",
+          "value": "61.75"
+        },
+        {
+          "key": "100",
+          "value": "479"
+        },
+        {
+          "key": "50",
+          "value": "154.69"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "62"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "2"
+        },
+        {
+          "key": "mat",
+          "value": "Ruturaj Gaikwad\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "583"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "108*"
+        },
+        {
+          "key": "sr",
+          "value": "53.00"
+        },
+        {
+          "key": "100",
+          "value": "413"
+        },
+        {
+          "key": "50",
+          "value": "141.16"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "58"
+        },
+        {
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "name": "Riyan Parag",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "3"
+        },
+        {
+          "key": "mat",
+          "value": "Riyan Parag\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "573"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "84*"
+        },
+        {
+          "key": "sr",
+          "value": "52.09"
+        },
+        {
+          "key": "100",
+          "value": "384"
+        },
+        {
+          "key": "50",
+          "value": "149.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Travis Head",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "4"
+        },
+        {
+          "key": "mat",
+          "value": "Travis Head\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "567"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "102"
+        },
+        {
+          "key": "sr",
+          "value": "40.50"
+        },
+        {
+          "key": "100",
+          "value": "296"
+        },
+        {
+          "key": "50",
+          "value": "191.55"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "name": "Sanju Samson",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "5"
+        },
+        {
+          "key": "mat",
+          "value": "Sanju Samson\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "531"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "4"
+        },
+        {
+          "key": "bf",
+          "value": "86"
+        },
+        {
+          "key": "sr",
+          "value": "48.27"
+        },
+        {
+          "key": "100",
+          "value": "346"
+        },
+        {
+          "key": "50",
+          "value": "153.46"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Sai Sudharsan",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "6"
+        },
+        {
+          "key": "mat",
+          "value": "Sai Sudharsan\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "527"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "103"
+        },
+        {
+          "key": "sr",
+          "value": "47.91"
+        },
+        {
+          "key": "100",
+          "value": "373"
+        },
+        {
+          "key": "50",
+          "value": "141.28"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "K L Rahul",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "7"
+        },
+        {
+          "key": "mat",
+          "value": "K L Rahul\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "520"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "82"
+        },
+        {
+          "key": "sr",
+          "value": "37.14"
+        },
+        {
+          "key": "100",
+          "value": "382"
+        },
+        {
+          "key": "50",
+          "value": "136.12"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas Pooran",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "8"
+        },
+        {
+          "key": "mat",
+          "value": "Nicholas Pooran\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "499"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "6"
+        },
+        {
+          "key": "bf",
+          "value": "75"
+        },
+        {
+          "key": "sr",
+          "value": "62.38"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "178.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "36"
+        }
+      ]
+    },
+    {
+      "name": "Sunil Narine",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "9"
+        },
+        {
+          "key": "mat",
+          "value": "Sunil Narine\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "488"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "109"
+        },
+        {
+          "key": "sr",
+          "value": "34.86"
+        },
+        {
+          "key": "100",
+          "value": "270"
+        },
+        {
+          "key": "50",
+          "value": "180.74"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Abhishek Sharma",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "10"
+        },
+        {
+          "key": "mat",
+          "value": "Abhishek Sharma\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "484"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "16"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "75*"
+        },
+        {
+          "key": "sr",
+          "value": "32.27"
+        },
+        {
+          "key": "100",
+          "value": "237"
+        },
+        {
+          "key": "50",
+          "value": "204.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "11"
+        },
+        {
+          "key": "mat",
+          "value": "Heinrich Klaasen\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "479"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "80*"
+        },
+        {
+          "key": "sr",
+          "value": "39.92"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "171.07"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "19"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Rishabh Pant",
+      "team": "DC",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "12"
+        },
+        {
+          "key": "mat",
+          "value": "Rishabh Pant\nDC"
+        },
+        {
+          "key": "inns",
+          "value": "446"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "2"
+        },
+        {
+          "key": "bf",
+          "value": "88*"
+        },
+        {
+          "key": "sr",
+          "value": "40.55"
+        },
+        {
+          "key": "100",
+          "value": "287"
+        },
+        {
+          "key": "50",
+          "value": "155.40"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "name": "Faf Du Plessis",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "13"
+        },
+        {
+          "key": "mat",
+          "value": "Faf Du Plessis\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "438"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "64"
+        },
+        {
+          "key": "sr",
+          "value": "29.20"
+        },
+        {
+          "key": "100",
+          "value": "271"
+        },
+        {
+          "key": "50",
+          "value": "161.62"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "47"
+        },
+        {
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "name": "Phil Salt",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "14"
+        },
+        {
+          "key": "mat",
+          "value": "Phil Salt\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "89*"
+        },
+        {
+          "key": "sr",
+          "value": "39.55"
+        },
+        {
+          "key": "100",
+          "value": "239"
+        },
+        {
+          "key": "50",
+          "value": "182.00"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "15"
+        },
+        {
+          "key": "mat",
+          "value": "Yashasvi Jaiswal\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104*"
+        },
+        {
+          "key": "sr",
+          "value": "31.07"
+        },
+        {
+          "key": "100",
+          "value": "279"
+        },
+        {
+          "key": "50",
+          "value": "155.91"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "54"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "Shubman Gill",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "16"
+        },
+        {
+          "key": "mat",
+          "value": "Shubman Gill\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "426"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104"
+        },
+        {
+          "key": "sr",
+          "value": "38.73"
+        },
+        {
+          "key": "100",
+          "value": "289"
+        },
+        {
+          "key": "50",
+          "value": "147.40"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "37"
+        },
+        {
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "17"
+        },
+        {
+          "key": "mat",
+          "value": "Rohit Sharma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "417"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "105*"
+        },
+        {
+          "key": "sr",
+          "value": "32.08"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "150.00"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "name": "Tilak Varma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "18"
+        },
+        {
+          "key": "mat",
+          "value": "Tilak Varma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "416"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "65"
+        },
+        {
+          "key": "sr",
+          "value": "41.60"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "149.64"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Shivam Dube",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "19"
+        },
+        {
+          "key": "mat",
+          "value": "Shivam Dube\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "396"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "66*"
+        },
+        {
+          "key": "sr",
+          "value": "36.00"
+        },
+        {
+          "key": "100",
+          "value": "244"
+        },
+        {
+          "key": "50",
+          "value": "162.29"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "name": "Rajat Patidar",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "20"
+        },
+        {
+          "key": "mat",
+          "value": "Rajat Patidar\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "395"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "55"
+        },
+        {
+          "key": "sr",
+          "value": "30.38"
+        },
+        {
+          "key": "100",
+          "value": "223"
+        },
+        {
+          "key": "50",
+          "value": "177.13"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "21"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "Batsman"
+        },
+        {
+          "key": "mat",
+          "value": "Indian"
+        },
+        {
+          "key": "inns",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "A 22-year old opening batsman who hails from Pune, Ruturaj Gaikwad has been a consistent performer for his state team Maharashtra. He was the highest run-getter for Maharashtra in the league stage of the Syed Mushtaq Ali Trophy 2018-19. At the IPL 2019 Player Auction, the Chennai Super Kings secured his services at his base price of INR 20 lacs."
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    }
+  ],
+  "SEASON 2023 ": [
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "Virat Kohli",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "1"
+        },
+        {
+          "key": "mat",
+          "value": "Virat Kohli\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "741"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "113*"
+        },
+        {
+          "key": "sr",
+          "value": "61.75"
+        },
+        {
+          "key": "100",
+          "value": "479"
+        },
+        {
+          "key": "50",
+          "value": "154.69"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "62"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "2"
+        },
+        {
+          "key": "mat",
+          "value": "Ruturaj Gaikwad\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "583"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "108*"
+        },
+        {
+          "key": "sr",
+          "value": "53.00"
+        },
+        {
+          "key": "100",
+          "value": "413"
+        },
+        {
+          "key": "50",
+          "value": "141.16"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "58"
+        },
+        {
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "name": "Riyan Parag",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "3"
+        },
+        {
+          "key": "mat",
+          "value": "Riyan Parag\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "573"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "84*"
+        },
+        {
+          "key": "sr",
+          "value": "52.09"
+        },
+        {
+          "key": "100",
+          "value": "384"
+        },
+        {
+          "key": "50",
+          "value": "149.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Travis Head",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "4"
+        },
+        {
+          "key": "mat",
+          "value": "Travis Head\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "567"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "102"
+        },
+        {
+          "key": "sr",
+          "value": "40.50"
+        },
+        {
+          "key": "100",
+          "value": "296"
+        },
+        {
+          "key": "50",
+          "value": "191.55"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "name": "Sanju Samson",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "5"
+        },
+        {
+          "key": "mat",
+          "value": "Sanju Samson\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "531"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "4"
+        },
+        {
+          "key": "bf",
+          "value": "86"
+        },
+        {
+          "key": "sr",
+          "value": "48.27"
+        },
+        {
+          "key": "100",
+          "value": "346"
+        },
+        {
+          "key": "50",
+          "value": "153.46"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Sai Sudharsan",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "6"
+        },
+        {
+          "key": "mat",
+          "value": "Sai Sudharsan\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "527"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "103"
+        },
+        {
+          "key": "sr",
+          "value": "47.91"
+        },
+        {
+          "key": "100",
+          "value": "373"
+        },
+        {
+          "key": "50",
+          "value": "141.28"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "K L Rahul",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "7"
+        },
+        {
+          "key": "mat",
+          "value": "K L Rahul\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "520"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "82"
+        },
+        {
+          "key": "sr",
+          "value": "37.14"
+        },
+        {
+          "key": "100",
+          "value": "382"
+        },
+        {
+          "key": "50",
+          "value": "136.12"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas Pooran",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "8"
+        },
+        {
+          "key": "mat",
+          "value": "Nicholas Pooran\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "499"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "6"
+        },
+        {
+          "key": "bf",
+          "value": "75"
+        },
+        {
+          "key": "sr",
+          "value": "62.38"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "178.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "36"
+        }
+      ]
+    },
+    {
+      "name": "Sunil Narine",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "9"
+        },
+        {
+          "key": "mat",
+          "value": "Sunil Narine\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "488"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "109"
+        },
+        {
+          "key": "sr",
+          "value": "34.86"
+        },
+        {
+          "key": "100",
+          "value": "270"
+        },
+        {
+          "key": "50",
+          "value": "180.74"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Abhishek Sharma",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "10"
+        },
+        {
+          "key": "mat",
+          "value": "Abhishek Sharma\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "484"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "16"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "75*"
+        },
+        {
+          "key": "sr",
+          "value": "32.27"
+        },
+        {
+          "key": "100",
+          "value": "237"
+        },
+        {
+          "key": "50",
+          "value": "204.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "11"
+        },
+        {
+          "key": "mat",
+          "value": "Heinrich Klaasen\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "479"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "80*"
+        },
+        {
+          "key": "sr",
+          "value": "39.92"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "171.07"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "19"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Rishabh Pant",
+      "team": "DC",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "12"
+        },
+        {
+          "key": "mat",
+          "value": "Rishabh Pant\nDC"
+        },
+        {
+          "key": "inns",
+          "value": "446"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "2"
+        },
+        {
+          "key": "bf",
+          "value": "88*"
+        },
+        {
+          "key": "sr",
+          "value": "40.55"
+        },
+        {
+          "key": "100",
+          "value": "287"
+        },
+        {
+          "key": "50",
+          "value": "155.40"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "name": "Faf Du Plessis",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "13"
+        },
+        {
+          "key": "mat",
+          "value": "Faf Du Plessis\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "438"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "64"
+        },
+        {
+          "key": "sr",
+          "value": "29.20"
+        },
+        {
+          "key": "100",
+          "value": "271"
+        },
+        {
+          "key": "50",
+          "value": "161.62"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "47"
+        },
+        {
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "name": "Phil Salt",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "14"
+        },
+        {
+          "key": "mat",
+          "value": "Phil Salt\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "89*"
+        },
+        {
+          "key": "sr",
+          "value": "39.55"
+        },
+        {
+          "key": "100",
+          "value": "239"
+        },
+        {
+          "key": "50",
+          "value": "182.00"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "15"
+        },
+        {
+          "key": "mat",
+          "value": "Yashasvi Jaiswal\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104*"
+        },
+        {
+          "key": "sr",
+          "value": "31.07"
+        },
+        {
+          "key": "100",
+          "value": "279"
+        },
+        {
+          "key": "50",
+          "value": "155.91"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "54"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "Shubman Gill",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "16"
+        },
+        {
+          "key": "mat",
+          "value": "Shubman Gill\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "426"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104"
+        },
+        {
+          "key": "sr",
+          "value": "38.73"
+        },
+        {
+          "key": "100",
+          "value": "289"
+        },
+        {
+          "key": "50",
+          "value": "147.40"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "37"
+        },
+        {
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "17"
+        },
+        {
+          "key": "mat",
+          "value": "Rohit Sharma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "417"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "105*"
+        },
+        {
+          "key": "sr",
+          "value": "32.08"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "150.00"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "name": "Tilak Varma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "18"
+        },
+        {
+          "key": "mat",
+          "value": "Tilak Varma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "416"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "65"
+        },
+        {
+          "key": "sr",
+          "value": "41.60"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "149.64"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Shivam Dube",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "19"
+        },
+        {
+          "key": "mat",
+          "value": "Shivam Dube\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "396"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "66*"
+        },
+        {
+          "key": "sr",
+          "value": "36.00"
+        },
+        {
+          "key": "100",
+          "value": "244"
+        },
+        {
+          "key": "50",
+          "value": "162.29"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "name": "Rajat Patidar",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "20"
+        },
+        {
+          "key": "mat",
+          "value": "Rajat Patidar\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "395"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "55"
+        },
+        {
+          "key": "sr",
+          "value": "30.38"
+        },
+        {
+          "key": "100",
+          "value": "223"
+        },
+        {
+          "key": "50",
+          "value": "177.13"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "21"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "Batsman"
+        },
+        {
+          "key": "mat",
+          "value": "Indian"
+        },
+        {
+          "key": "inns",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "A 22-year old opening batsman who hails from Pune, Ruturaj Gaikwad has been a consistent performer for his state team Maharashtra. He was the highest run-getter for Maharashtra in the league stage of the Syed Mushtaq Ali Trophy 2018-19. At the IPL 2019 Player Auction, the Chennai Super Kings secured his services at his base price of INR 20 lacs."
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    }
+  ],
+  "SEASON 2022 ": [
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "Virat Kohli",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "1"
+        },
+        {
+          "key": "mat",
+          "value": "Virat Kohli\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "741"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "113*"
+        },
+        {
+          "key": "sr",
+          "value": "61.75"
+        },
+        {
+          "key": "100",
+          "value": "479"
+        },
+        {
+          "key": "50",
+          "value": "154.69"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "62"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "2"
+        },
+        {
+          "key": "mat",
+          "value": "Ruturaj Gaikwad\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "583"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "108*"
+        },
+        {
+          "key": "sr",
+          "value": "53.00"
+        },
+        {
+          "key": "100",
+          "value": "413"
+        },
+        {
+          "key": "50",
+          "value": "141.16"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "58"
+        },
+        {
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "name": "Riyan Parag",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "3"
+        },
+        {
+          "key": "mat",
+          "value": "Riyan Parag\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "573"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "84*"
+        },
+        {
+          "key": "sr",
+          "value": "52.09"
+        },
+        {
+          "key": "100",
+          "value": "384"
+        },
+        {
+          "key": "50",
+          "value": "149.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Travis Head",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "4"
+        },
+        {
+          "key": "mat",
+          "value": "Travis Head\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "567"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "102"
+        },
+        {
+          "key": "sr",
+          "value": "40.50"
+        },
+        {
+          "key": "100",
+          "value": "296"
+        },
+        {
+          "key": "50",
+          "value": "191.55"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "name": "Sanju Samson",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "5"
+        },
+        {
+          "key": "mat",
+          "value": "Sanju Samson\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "531"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "4"
+        },
+        {
+          "key": "bf",
+          "value": "86"
+        },
+        {
+          "key": "sr",
+          "value": "48.27"
+        },
+        {
+          "key": "100",
+          "value": "346"
+        },
+        {
+          "key": "50",
+          "value": "153.46"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Sai Sudharsan",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "6"
+        },
+        {
+          "key": "mat",
+          "value": "Sai Sudharsan\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "527"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "103"
+        },
+        {
+          "key": "sr",
+          "value": "47.91"
+        },
+        {
+          "key": "100",
+          "value": "373"
+        },
+        {
+          "key": "50",
+          "value": "141.28"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "K L Rahul",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "7"
+        },
+        {
+          "key": "mat",
+          "value": "K L Rahul\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "520"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "82"
+        },
+        {
+          "key": "sr",
+          "value": "37.14"
+        },
+        {
+          "key": "100",
+          "value": "382"
+        },
+        {
+          "key": "50",
+          "value": "136.12"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas Pooran",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "8"
+        },
+        {
+          "key": "mat",
+          "value": "Nicholas Pooran\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "499"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "6"
+        },
+        {
+          "key": "bf",
+          "value": "75"
+        },
+        {
+          "key": "sr",
+          "value": "62.38"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "178.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "36"
+        }
+      ]
+    },
+    {
+      "name": "Sunil Narine",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "9"
+        },
+        {
+          "key": "mat",
+          "value": "Sunil Narine\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "488"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "109"
+        },
+        {
+          "key": "sr",
+          "value": "34.86"
+        },
+        {
+          "key": "100",
+          "value": "270"
+        },
+        {
+          "key": "50",
+          "value": "180.74"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Abhishek Sharma",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "10"
+        },
+        {
+          "key": "mat",
+          "value": "Abhishek Sharma\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "484"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "16"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "75*"
+        },
+        {
+          "key": "sr",
+          "value": "32.27"
+        },
+        {
+          "key": "100",
+          "value": "237"
+        },
+        {
+          "key": "50",
+          "value": "204.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "11"
+        },
+        {
+          "key": "mat",
+          "value": "Heinrich Klaasen\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "479"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "80*"
+        },
+        {
+          "key": "sr",
+          "value": "39.92"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "171.07"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "19"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Rishabh Pant",
+      "team": "DC",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "12"
+        },
+        {
+          "key": "mat",
+          "value": "Rishabh Pant\nDC"
+        },
+        {
+          "key": "inns",
+          "value": "446"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "2"
+        },
+        {
+          "key": "bf",
+          "value": "88*"
+        },
+        {
+          "key": "sr",
+          "value": "40.55"
+        },
+        {
+          "key": "100",
+          "value": "287"
+        },
+        {
+          "key": "50",
+          "value": "155.40"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "name": "Faf Du Plessis",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "13"
+        },
+        {
+          "key": "mat",
+          "value": "Faf Du Plessis\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "438"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "64"
+        },
+        {
+          "key": "sr",
+          "value": "29.20"
+        },
+        {
+          "key": "100",
+          "value": "271"
+        },
+        {
+          "key": "50",
+          "value": "161.62"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "47"
+        },
+        {
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "name": "Phil Salt",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "14"
+        },
+        {
+          "key": "mat",
+          "value": "Phil Salt\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "89*"
+        },
+        {
+          "key": "sr",
+          "value": "39.55"
+        },
+        {
+          "key": "100",
+          "value": "239"
+        },
+        {
+          "key": "50",
+          "value": "182.00"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "15"
+        },
+        {
+          "key": "mat",
+          "value": "Yashasvi Jaiswal\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104*"
+        },
+        {
+          "key": "sr",
+          "value": "31.07"
+        },
+        {
+          "key": "100",
+          "value": "279"
+        },
+        {
+          "key": "50",
+          "value": "155.91"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "54"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "Shubman Gill",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "16"
+        },
+        {
+          "key": "mat",
+          "value": "Shubman Gill\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "426"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104"
+        },
+        {
+          "key": "sr",
+          "value": "38.73"
+        },
+        {
+          "key": "100",
+          "value": "289"
+        },
+        {
+          "key": "50",
+          "value": "147.40"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "37"
+        },
+        {
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "17"
+        },
+        {
+          "key": "mat",
+          "value": "Rohit Sharma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "417"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "105*"
+        },
+        {
+          "key": "sr",
+          "value": "32.08"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "150.00"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "name": "Tilak Varma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "18"
+        },
+        {
+          "key": "mat",
+          "value": "Tilak Varma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "416"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "65"
+        },
+        {
+          "key": "sr",
+          "value": "41.60"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "149.64"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Shivam Dube",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "19"
+        },
+        {
+          "key": "mat",
+          "value": "Shivam Dube\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "396"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "66*"
+        },
+        {
+          "key": "sr",
+          "value": "36.00"
+        },
+        {
+          "key": "100",
+          "value": "244"
+        },
+        {
+          "key": "50",
+          "value": "162.29"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "name": "Rajat Patidar",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "20"
+        },
+        {
+          "key": "mat",
+          "value": "Rajat Patidar\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "395"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "55"
+        },
+        {
+          "key": "sr",
+          "value": "30.38"
+        },
+        {
+          "key": "100",
+          "value": "223"
+        },
+        {
+          "key": "50",
+          "value": "177.13"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "21"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "Batsman"
+        },
+        {
+          "key": "mat",
+          "value": "Indian"
+        },
+        {
+          "key": "inns",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "A 22-year old opening batsman who hails from Pune, Ruturaj Gaikwad has been a consistent performer for his state team Maharashtra. He was the highest run-getter for Maharashtra in the league stage of the Syed Mushtaq Ali Trophy 2018-19. At the IPL 2019 Player Auction, the Chennai Super Kings secured his services at his base price of INR 20 lacs."
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    }
+  ],
+  "SEASON 2021 ": [
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "Virat Kohli",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "1"
+        },
+        {
+          "key": "mat",
+          "value": "Virat Kohli\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "741"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "113*"
+        },
+        {
+          "key": "sr",
+          "value": "61.75"
+        },
+        {
+          "key": "100",
+          "value": "479"
+        },
+        {
+          "key": "50",
+          "value": "154.69"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "62"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "2"
+        },
+        {
+          "key": "mat",
+          "value": "Ruturaj Gaikwad\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "583"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "108*"
+        },
+        {
+          "key": "sr",
+          "value": "53.00"
+        },
+        {
+          "key": "100",
+          "value": "413"
+        },
+        {
+          "key": "50",
+          "value": "141.16"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "58"
+        },
+        {
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "name": "Riyan Parag",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "3"
+        },
+        {
+          "key": "mat",
+          "value": "Riyan Parag\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "573"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "84*"
+        },
+        {
+          "key": "sr",
+          "value": "52.09"
+        },
+        {
+          "key": "100",
+          "value": "384"
+        },
+        {
+          "key": "50",
+          "value": "149.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Travis Head",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "4"
+        },
+        {
+          "key": "mat",
+          "value": "Travis Head\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "567"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "102"
+        },
+        {
+          "key": "sr",
+          "value": "40.50"
+        },
+        {
+          "key": "100",
+          "value": "296"
+        },
+        {
+          "key": "50",
+          "value": "191.55"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "name": "Sanju Samson",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "5"
+        },
+        {
+          "key": "mat",
+          "value": "Sanju Samson\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "531"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "4"
+        },
+        {
+          "key": "bf",
+          "value": "86"
+        },
+        {
+          "key": "sr",
+          "value": "48.27"
+        },
+        {
+          "key": "100",
+          "value": "346"
+        },
+        {
+          "key": "50",
+          "value": "153.46"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Sai Sudharsan",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "6"
+        },
+        {
+          "key": "mat",
+          "value": "Sai Sudharsan\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "527"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "103"
+        },
+        {
+          "key": "sr",
+          "value": "47.91"
+        },
+        {
+          "key": "100",
+          "value": "373"
+        },
+        {
+          "key": "50",
+          "value": "141.28"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "K L Rahul",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "7"
+        },
+        {
+          "key": "mat",
+          "value": "K L Rahul\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "520"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "82"
+        },
+        {
+          "key": "sr",
+          "value": "37.14"
+        },
+        {
+          "key": "100",
+          "value": "382"
+        },
+        {
+          "key": "50",
+          "value": "136.12"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas Pooran",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "8"
+        },
+        {
+          "key": "mat",
+          "value": "Nicholas Pooran\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "499"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "6"
+        },
+        {
+          "key": "bf",
+          "value": "75"
+        },
+        {
+          "key": "sr",
+          "value": "62.38"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "178.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "36"
+        }
+      ]
+    },
+    {
+      "name": "Sunil Narine",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "9"
+        },
+        {
+          "key": "mat",
+          "value": "Sunil Narine\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "488"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "109"
+        },
+        {
+          "key": "sr",
+          "value": "34.86"
+        },
+        {
+          "key": "100",
+          "value": "270"
+        },
+        {
+          "key": "50",
+          "value": "180.74"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Abhishek Sharma",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "10"
+        },
+        {
+          "key": "mat",
+          "value": "Abhishek Sharma\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "484"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "16"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "75*"
+        },
+        {
+          "key": "sr",
+          "value": "32.27"
+        },
+        {
+          "key": "100",
+          "value": "237"
+        },
+        {
+          "key": "50",
+          "value": "204.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "11"
+        },
+        {
+          "key": "mat",
+          "value": "Heinrich Klaasen\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "479"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "80*"
+        },
+        {
+          "key": "sr",
+          "value": "39.92"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "171.07"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "19"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Rishabh Pant",
+      "team": "DC",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "12"
+        },
+        {
+          "key": "mat",
+          "value": "Rishabh Pant\nDC"
+        },
+        {
+          "key": "inns",
+          "value": "446"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "2"
+        },
+        {
+          "key": "bf",
+          "value": "88*"
+        },
+        {
+          "key": "sr",
+          "value": "40.55"
+        },
+        {
+          "key": "100",
+          "value": "287"
+        },
+        {
+          "key": "50",
+          "value": "155.40"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "name": "Faf Du Plessis",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "13"
+        },
+        {
+          "key": "mat",
+          "value": "Faf Du Plessis\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "438"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "64"
+        },
+        {
+          "key": "sr",
+          "value": "29.20"
+        },
+        {
+          "key": "100",
+          "value": "271"
+        },
+        {
+          "key": "50",
+          "value": "161.62"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "47"
+        },
+        {
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "name": "Phil Salt",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "14"
+        },
+        {
+          "key": "mat",
+          "value": "Phil Salt\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "89*"
+        },
+        {
+          "key": "sr",
+          "value": "39.55"
+        },
+        {
+          "key": "100",
+          "value": "239"
+        },
+        {
+          "key": "50",
+          "value": "182.00"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "15"
+        },
+        {
+          "key": "mat",
+          "value": "Yashasvi Jaiswal\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104*"
+        },
+        {
+          "key": "sr",
+          "value": "31.07"
+        },
+        {
+          "key": "100",
+          "value": "279"
+        },
+        {
+          "key": "50",
+          "value": "155.91"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "54"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "Shubman Gill",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "16"
+        },
+        {
+          "key": "mat",
+          "value": "Shubman Gill\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "426"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104"
+        },
+        {
+          "key": "sr",
+          "value": "38.73"
+        },
+        {
+          "key": "100",
+          "value": "289"
+        },
+        {
+          "key": "50",
+          "value": "147.40"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "37"
+        },
+        {
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "17"
+        },
+        {
+          "key": "mat",
+          "value": "Rohit Sharma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "417"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "105*"
+        },
+        {
+          "key": "sr",
+          "value": "32.08"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "150.00"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "name": "Tilak Varma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "18"
+        },
+        {
+          "key": "mat",
+          "value": "Tilak Varma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "416"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "65"
+        },
+        {
+          "key": "sr",
+          "value": "41.60"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "149.64"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Shivam Dube",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "19"
+        },
+        {
+          "key": "mat",
+          "value": "Shivam Dube\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "396"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "66*"
+        },
+        {
+          "key": "sr",
+          "value": "36.00"
+        },
+        {
+          "key": "100",
+          "value": "244"
+        },
+        {
+          "key": "50",
+          "value": "162.29"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "name": "Rajat Patidar",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "20"
+        },
+        {
+          "key": "mat",
+          "value": "Rajat Patidar\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "395"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "55"
+        },
+        {
+          "key": "sr",
+          "value": "30.38"
+        },
+        {
+          "key": "100",
+          "value": "223"
+        },
+        {
+          "key": "50",
+          "value": "177.13"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "21"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "Batsman"
+        },
+        {
+          "key": "mat",
+          "value": "Indian"
+        },
+        {
+          "key": "inns",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "A 22-year old opening batsman who hails from Pune, Ruturaj Gaikwad has been a consistent performer for his state team Maharashtra. He was the highest run-getter for Maharashtra in the league stage of the Syed Mushtaq Ali Trophy 2018-19. At the IPL 2019 Player Auction, the Chennai Super Kings secured his services at his base price of INR 20 lacs."
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    }
+  ],
+  "SEASON 2020 ": [
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "Virat Kohli",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "1"
+        },
+        {
+          "key": "mat",
+          "value": "Virat Kohli\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "741"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "113*"
+        },
+        {
+          "key": "sr",
+          "value": "61.75"
+        },
+        {
+          "key": "100",
+          "value": "479"
+        },
+        {
+          "key": "50",
+          "value": "154.69"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "62"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "2"
+        },
+        {
+          "key": "mat",
+          "value": "Ruturaj Gaikwad\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "583"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "108*"
+        },
+        {
+          "key": "sr",
+          "value": "53.00"
+        },
+        {
+          "key": "100",
+          "value": "413"
+        },
+        {
+          "key": "50",
+          "value": "141.16"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "58"
+        },
+        {
+          "value": "18"
+        }
+      ]
+    },
+    {
+      "name": "Riyan Parag",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "3"
+        },
+        {
+          "key": "mat",
+          "value": "Riyan Parag\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "573"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "84*"
+        },
+        {
+          "key": "sr",
+          "value": "52.09"
+        },
+        {
+          "key": "100",
+          "value": "384"
+        },
+        {
+          "key": "50",
+          "value": "149.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "40"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Travis Head",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "4"
+        },
+        {
+          "key": "mat",
+          "value": "Travis Head\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "567"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "102"
+        },
+        {
+          "key": "sr",
+          "value": "40.50"
+        },
+        {
+          "key": "100",
+          "value": "296"
+        },
+        {
+          "key": "50",
+          "value": "191.55"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "64"
+        },
+        {
+          "value": "32"
+        }
+      ]
+    },
+    {
+      "name": "Sanju Samson",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "5"
+        },
+        {
+          "key": "mat",
+          "value": "Sanju Samson\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "531"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "4"
+        },
+        {
+          "key": "bf",
+          "value": "86"
+        },
+        {
+          "key": "sr",
+          "value": "48.27"
+        },
+        {
+          "key": "100",
+          "value": "346"
+        },
+        {
+          "key": "50",
+          "value": "153.46"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Sai Sudharsan",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "6"
+        },
+        {
+          "key": "mat",
+          "value": "Sai Sudharsan\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "527"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "103"
+        },
+        {
+          "key": "sr",
+          "value": "47.91"
+        },
+        {
+          "key": "100",
+          "value": "373"
+        },
+        {
+          "key": "50",
+          "value": "141.28"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "48"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "K L Rahul",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "7"
+        },
+        {
+          "key": "mat",
+          "value": "K L Rahul\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "520"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "82"
+        },
+        {
+          "key": "sr",
+          "value": "37.14"
+        },
+        {
+          "key": "100",
+          "value": "382"
+        },
+        {
+          "key": "50",
+          "value": "136.12"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Nicholas Pooran",
+      "team": "LSG",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "8"
+        },
+        {
+          "key": "mat",
+          "value": "Nicholas Pooran\nLSG"
+        },
+        {
+          "key": "inns",
+          "value": "499"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "6"
+        },
+        {
+          "key": "bf",
+          "value": "75"
+        },
+        {
+          "key": "sr",
+          "value": "62.38"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "178.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "36"
+        }
+      ]
+    },
+    {
+      "name": "Sunil Narine",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "9"
+        },
+        {
+          "key": "mat",
+          "value": "Sunil Narine\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "488"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "109"
+        },
+        {
+          "key": "sr",
+          "value": "34.86"
+        },
+        {
+          "key": "100",
+          "value": "270"
+        },
+        {
+          "key": "50",
+          "value": "180.74"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "Abhishek Sharma",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "10"
+        },
+        {
+          "key": "mat",
+          "value": "Abhishek Sharma\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "484"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "16"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "75*"
+        },
+        {
+          "key": "sr",
+          "value": "32.27"
+        },
+        {
+          "key": "100",
+          "value": "237"
+        },
+        {
+          "key": "50",
+          "value": "204.21"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "42"
+        }
+      ]
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "team": "SRH",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "11"
+        },
+        {
+          "key": "mat",
+          "value": "Heinrich Klaasen\nSRH"
+        },
+        {
+          "key": "inns",
+          "value": "479"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "80*"
+        },
+        {
+          "key": "sr",
+          "value": "39.92"
+        },
+        {
+          "key": "100",
+          "value": "280"
+        },
+        {
+          "key": "50",
+          "value": "171.07"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "19"
+        },
+        {
+          "value": "38"
+        }
+      ]
+    },
+    {
+      "name": "Rishabh Pant",
+      "team": "DC",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "12"
+        },
+        {
+          "key": "mat",
+          "value": "Rishabh Pant\nDC"
+        },
+        {
+          "key": "inns",
+          "value": "446"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "2"
+        },
+        {
+          "key": "bf",
+          "value": "88*"
+        },
+        {
+          "key": "sr",
+          "value": "40.55"
+        },
+        {
+          "key": "100",
+          "value": "287"
+        },
+        {
+          "key": "50",
+          "value": "155.40"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "36"
+        },
+        {
+          "value": "25"
+        }
+      ]
+    },
+    {
+      "name": "Faf Du Plessis",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "13"
+        },
+        {
+          "key": "mat",
+          "value": "Faf Du Plessis\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "438"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "64"
+        },
+        {
+          "key": "sr",
+          "value": "29.20"
+        },
+        {
+          "key": "100",
+          "value": "271"
+        },
+        {
+          "key": "50",
+          "value": "161.62"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "47"
+        },
+        {
+          "value": "21"
+        }
+      ]
+    },
+    {
+      "name": "Phil Salt",
+      "team": "KKR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "14"
+        },
+        {
+          "key": "mat",
+          "value": "Phil Salt\nKKR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "89*"
+        },
+        {
+          "key": "sr",
+          "value": "39.55"
+        },
+        {
+          "key": "100",
+          "value": "239"
+        },
+        {
+          "key": "50",
+          "value": "182.00"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "4"
+        },
+        {
+          "value": "50"
+        },
+        {
+          "value": "24"
+        }
+      ]
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "team": "RR",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "15"
+        },
+        {
+          "key": "mat",
+          "value": "Yashasvi Jaiswal\nRR"
+        },
+        {
+          "key": "inns",
+          "value": "435"
+        },
+        {
+          "key": "no",
+          "value": "16"
+        },
+        {
+          "key": "hs",
+          "value": "15"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104*"
+        },
+        {
+          "key": "sr",
+          "value": "31.07"
+        },
+        {
+          "key": "100",
+          "value": "279"
+        },
+        {
+          "key": "50",
+          "value": "155.91"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "54"
+        },
+        {
+          "value": "16"
+        }
+      ]
+    },
+    {
+      "name": "Shubman Gill",
+      "team": "GT",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "16"
+        },
+        {
+          "key": "mat",
+          "value": "Shubman Gill\nGT"
+        },
+        {
+          "key": "inns",
+          "value": "426"
+        },
+        {
+          "key": "no",
+          "value": "12"
+        },
+        {
+          "key": "hs",
+          "value": "12"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "104"
+        },
+        {
+          "key": "sr",
+          "value": "38.73"
+        },
+        {
+          "key": "100",
+          "value": "289"
+        },
+        {
+          "key": "50",
+          "value": "147.40"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "2"
+        },
+        {
+          "value": "37"
+        },
+        {
+          "value": "15"
+        }
+      ]
+    },
+    {
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "17"
+        },
+        {
+          "key": "mat",
+          "value": "Rohit Sharma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "417"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "1"
+        },
+        {
+          "key": "bf",
+          "value": "105*"
+        },
+        {
+          "key": "sr",
+          "value": "32.08"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "150.00"
+        },
+        {
+          "key": "4s",
+          "value": "1"
+        },
+        {
+          "key": "6s",
+          "value": "1"
+        },
+        {
+          "value": "45"
+        },
+        {
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "name": "Tilak Varma",
+      "team": "MI",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "18"
+        },
+        {
+          "key": "mat",
+          "value": "Tilak Varma\nMI"
+        },
+        {
+          "key": "inns",
+          "value": "416"
+        },
+        {
+          "key": "no",
+          "value": "13"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "65"
+        },
+        {
+          "key": "sr",
+          "value": "41.60"
+        },
+        {
+          "key": "100",
+          "value": "278"
+        },
+        {
+          "key": "50",
+          "value": "149.64"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "35"
+        },
+        {
+          "value": "19"
+        }
+      ]
+    },
+    {
+      "name": "Shivam Dube",
+      "team": "CSK",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "19"
+        },
+        {
+          "key": "mat",
+          "value": "Shivam Dube\nCSK"
+        },
+        {
+          "key": "inns",
+          "value": "396"
+        },
+        {
+          "key": "no",
+          "value": "14"
+        },
+        {
+          "key": "hs",
+          "value": "14"
+        },
+        {
+          "key": "avg",
+          "value": "3"
+        },
+        {
+          "key": "bf",
+          "value": "66*"
+        },
+        {
+          "key": "sr",
+          "value": "36.00"
+        },
+        {
+          "key": "100",
+          "value": "244"
+        },
+        {
+          "key": "50",
+          "value": "162.29"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "3"
+        },
+        {
+          "value": "28"
+        },
+        {
+          "value": "28"
+        }
+      ]
+    },
+    {
+      "name": "Rajat Patidar",
+      "team": "RCB",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "20"
+        },
+        {
+          "key": "mat",
+          "value": "Rajat Patidar\nRCB"
+        },
+        {
+          "key": "inns",
+          "value": "395"
+        },
+        {
+          "key": "no",
+          "value": "15"
+        },
+        {
+          "key": "hs",
+          "value": "13"
+        },
+        {
+          "key": "avg",
+          "value": "0"
+        },
+        {
+          "key": "bf",
+          "value": "55"
+        },
+        {
+          "key": "sr",
+          "value": "30.38"
+        },
+        {
+          "key": "100",
+          "value": "223"
+        },
+        {
+          "key": "50",
+          "value": "177.13"
+        },
+        {
+          "key": "4s",
+          "value": "0"
+        },
+        {
+          "key": "6s",
+          "value": "5"
+        },
+        {
+          "value": "21"
+        },
+        {
+          "value": "33"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "No data found. Please select any respective category."
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "Batsman"
+        },
+        {
+          "key": "mat",
+          "value": "Indian"
+        },
+        {
+          "key": "inns",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": []
+    },
+    {
+      "name": "N/A",
+      "team": "N/A",
+      "stats": [
+        {
+          "key": "runs",
+          "value": "A 22-year old opening batsman who hails from Pune, Ruturaj Gaikwad has been a consistent performer for his state team Maharashtra. He was the highest run-getter for Maharashtra in the league stage of the Syed Mushtaq Ali Trophy 2018-19. At the IPL 2019 Player Auction, the Chennai Super Kings secured his services at his base price of INR 20 lacs."
+        },
+        {
+          "key": "mat",
+          "value": "N/A"
+        }
+      ]
+    }
+  ]
+}
